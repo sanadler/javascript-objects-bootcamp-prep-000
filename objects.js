@@ -1,8 +1,8 @@
 var playlist = {'Grateful dead': 'Jack Straw'};
 
 
-function updatePlaylist(playlist, artistName, songTitle){
-  playlist.artistName = songTitle;
+function updatePlaylist(playlist, artist, song){
+  playlist.artist = song;
   return playlist;
 }
 
