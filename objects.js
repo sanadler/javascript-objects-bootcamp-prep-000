@@ -1,5 +1,5 @@
-var playlist = new Object({playlist: 'songTitle'});
+var playlist = {playlist: 'songTitle'};
 
 function updatePlaylist(playlist, artistName, songTitle){
-
+  playlist = {artistName: 'songTitle'}
 }
