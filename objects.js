@@ -1,1 +1,1 @@
-var object = new Object();
+var object = {new Object()};
