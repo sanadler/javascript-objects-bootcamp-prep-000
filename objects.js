@@ -4,4 +4,4 @@ function updatePlaylist(playlist, artistName, songTitle){
   playlist[artistName] = songTitle;
   console.log(playlist);
 }
-function updatePlaylist(playlist, yo, "hello")
+updatePlaylist(playlist, yo, "hello");
